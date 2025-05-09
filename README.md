@@ -1,3 +1,6 @@
+![UI Enhancements](https://i.imgur.com/RxVBumq.png)
+
+
 :tada: Enhanced Fork of Jellyfin for Android TV :rocket:
 
 [Jellyfin for Android TV](https://github.com/jellyfin/jellyfin-androidtv)! This version brings a suite of exciting features and improvements to elevate your media streaming experience on Android TV. From sleek UI enhancements to performance boosts, this fork is designed to make your interaction smoother and more enjoyable. :star2:
