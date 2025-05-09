@@ -1,3 +1,48 @@
+:tada: Enhanced Fork of Jellyfin for Android TV :rocket:
+
+[Jellyfin for Android TV](https://github.com/jellyfin/jellyfin-androidtv)! This version brings a suite of exciting features and improvements to elevate your media streaming experience on Android TV. From sleek UI enhancements to performance boosts, this fork is designed to make your interaction smoother and more enjoyable. :star2:
+
+:sparkles: What's Included in This Fork
+- :frame_with_picture: **White Borders on Focused Cards**  
+  Improved visibility with clean, white borders around focused cards for a polished look.
+- :crescent_moon: **Enhanced Dark Theme**  
+  A refined dark theme for a more comfortable and stylish viewing experience.
+- :memo: **Subtitle Weight Customization**  
+  Choose between **Normal** or **Bold** subtitle weights to suit your preferences.
+- :microphone: **Voice Search Integration**  
+  Search by voice is now seamlessly integrated into the search page.
+- :books: **Customizable Genre Rows**  
+  Show or hide genre rows on the home screen for infinite scrolling. Includes support for **Collections Library** and **Playlists** for music libraries.
+- :paintbrush: **Backdrop & Background Blur Customization**  
+  Adjust blur to your desired percentage for better visibility and a personalized aesthetic.
+- :gear: **Redesigned Buttons**  
+  New **Search**, **Settings**, and **Users** buttons with intuitive, convenient placement.
+- :black_square_button: **Sleek, Rounded Cards**  
+  Modernized card design with smoother, more rounded edges for a contemporary feel.
+- :zap: **Improved Image Caching**  
+  Faster loading times with an optimized image caching method.
+- :rocket: **Performance & Visual Enhancements**  
+  Streamlined visuals for better performance and quicker load times.
+
+:crystal_ball: Possible Things i might add :
+- :inbox_tray: **Subtitle Download Integration**  
+  Download and load subtitles directly in the player from sources like OpenSubtitles or Subdl.
+- :frame_with_picture: **Auto-Sliding Banner**  
+  A dynamic banner showcasing recently added media.
+- :musical_note: **Default Audio Language Selection**  
+  Set your preferred audio language for a seamless experience.
+- :house: **Customizable Home Screen**  
+  Choose which items appear in a personalized home screen row.
+- :pushpin: **Long-Press Menu Options**  
+  Long-press items to add them to specific collections via a mini popup menu.
+- :art: **Theme Import for Android TV**  
+  Import themes from web wrapper-clients to the Android TV app.
+
+:star: Credits
+Special thanks to the OLED mod fork for inspiration : [LitCastVlog/jellyfin-androidtv-OLED](https://github.com/LitCastVlog/jellyfin-androidtv-OLED).
+
+                             Note : I made this on coffee and noodles,Small bugs might happen.
+-----------------------------------------------------------------------------------------------------------------------------------------------
 <h1 align="center">Jellyfin Android TV</h1>
 <h3 align="center">Part of the <a href="https://jellyfin.org">Jellyfin Project</a></h3>
 
