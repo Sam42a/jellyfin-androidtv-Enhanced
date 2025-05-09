@@ -3,7 +3,7 @@
 [Jellyfin for Android TV](https://github.com/jellyfin/jellyfin-androidtv)! This version brings a suite of exciting features and improvements to elevate your media streaming experience on Android TV. From sleek UI enhancements to performance boosts, this fork is designed to make your interaction smoother and more enjoyable. :star2:
 
 :sparkles: What's Included in This Fork
-- :frame_with_picture: **White Borders on Focused Cards**  
+- **White Borders on Focused Cards**  
   Improved visibility with clean, white borders around focused cards for a polished look.
 - :crescent_moon: **Enhanced Dark Theme**  
   A refined dark theme for a more comfortable and stylish viewing experience.
