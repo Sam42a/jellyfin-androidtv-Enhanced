@@ -1,4 +1,4 @@
-![UI Enhancements](https://i.imgur.com/RxVBumq.png)
+![UI Enhancements](https://i.imgur.com/DFQiJvc.png)
 
 
 :tada: Enhanced Fork of Jellyfin for Android TV :rocket:
