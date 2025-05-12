@@ -6,6 +6,10 @@ Jellyfin Android TV is a Jellyfin client for Android TV, Nvidia Shield, and Amaz
 We welcome all contributions and pull requests! If you have a larger feature in mind please open an
 issue so we can discuss the implementation before you start. 
 
+<p align="center">
+  <img src="https://imgur.com/DFQiJvc.jpg" alt="Centered image">
+</p>
+
 ## Translating
 
 Translations can be improved very easily from our
